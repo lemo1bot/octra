@@ -1,0 +1,5 @@
+{
+  "name": "Octra Banana Chase",
+  "description": "A funny browser-based game where you control a glowing Octra cube to catch falling bananas. Score points, avoid misses, and climb the leaderboard!",
+  "requestFramePermissions": []
+}
